@@ -12,7 +12,7 @@
 #include <time.h>
 //#include "enemy.h"
 //#include "minilibx/mlx.h"
-#include "/opt/X11/include/X11/X.h"
+//#include "/opt/X11/include/X11/X.h"
 
 typedef struct  s_cofmass
 {
@@ -68,12 +68,16 @@ typedef struct  s_data
 	clock_t 	prev;
     struct s_key   *board;
     struct s_tri   *figure;
+	struct s_tri   *background;
 	struct s_fire	**bull;
 	struct s_cofmass	*center_of_mass;
 	struct s_enemy		**enemy;
 	struct s_coord		*angle;
 	struct s_old_ship	*old_ship;
 }               t_data;
+
+void ft_put_background(t_data *data);
+void	ft_do_this(t_data *data);
 
 void	ft_clear_img(t_data *data);
 

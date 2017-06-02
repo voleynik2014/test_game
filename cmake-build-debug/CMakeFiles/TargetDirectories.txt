@@ -1,3 +1,3 @@
-/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/CMakeFiles/untitled4.dir
+/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/CMakeFiles/untitled4.dir

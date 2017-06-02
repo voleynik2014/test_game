@@ -85,6 +85,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled4.dir/src/ft_delete_bullet.c.o"
   "CMakeFiles/untitled4.dir/src/enemy.c.o"
   "CMakeFiles/untitled4.dir/src/ft_rotate_ship.c.o"
+  "CMakeFiles/untitled4.dir/src/background.c.o"
   "untitled4.pdb"
   "untitled4"
 )

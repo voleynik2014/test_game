@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.6)
 project(untitled4)
 
 set(CMAKE_C_STANDARD 99)
-#set( CMAKE_EXE_LINKER_FLAGS  "-lmlx -framework OpenGL -framework AppKit")
-set( CMAKE_EXE_LINKER_FLAGS  "-L/usr/X11/lib -lmlx -lX11 -lXext ")
+set( CMAKE_EXE_LINKER_FLAGS  "-lmlx -framework OpenGL -framework AppKit")
+#set( CMAKE_EXE_LINKER_FLAGS  "-L/usr/X11/lib -lmlx -lX11 -lXext ")
 set(SOURCE_FILES src/main.c libft/author
         libft/ft_atoi.c
         libft/ft_bzero.c
@@ -115,7 +115,7 @@ set(SOURCE_FILES src/main.c libft/author
 #        includes/minilibx/mlx_rgb.c
 #        includes/minilibx/mlx_string_put.c
 #        includes/minilibx/mlx_xpm.c
-        src/handle_fire.c src/ft_delete_bullet.c src/enemy.c includes/enemy.h src/ft_rotate_ship.c)
+        src/handle_fire.c src/ft_delete_bullet.c src/enemy.c includes/enemy.h src/ft_rotate_ship.c src/background.c)
 add_executable(untitled4 ${SOURCE_FILES})
 
 include_directories(includes

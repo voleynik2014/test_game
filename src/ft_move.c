@@ -25,24 +25,28 @@ void    move_forward(t_data *data, float i)
 
 void    move_left(t_data *data, float i)
 {
-	data->angle->x_cos = cos(data->center_of_mass->x);
-	data->angle->x_sin = sin(data->center_of_mass->x);
-	data->angle->y_cos = cos(data->center_of_mass->x);
-	data->angle->y_sin = sin(data->center_of_mass->x);
-	if (data->center_of_mass->x)
-		ft_rotate_ship(data);
+	if (data->board->x > 0)
+		data->board->x += i;
+//	data->angle->x_cos = cos(data->center_of_mass->x);
+//	data->angle->x_sin = sin(data->center_of_mass->x);
+//	data->angle->y_cos = cos(data->center_of_mass->x);
+//	data->angle->y_sin = sin(data->center_of_mass->x);
+//	if (data->center_of_mass->x)
+//		ft_rotate_ship(data);
 }
 
 
 void    move_right(t_data *data, float i)
 {
-	data->angle->x_cos = cos(data->center_of_mass->x);
-	data->angle->x_sin = sin(data->center_of_mass->x);
-	data->angle->y_cos = cos(data->center_of_mass->x);
-	data->angle->y_sin = sin(data->center_of_mass->x);
-//	printf("x:%f %f\n", 	data->angle->x_cos , 	data->angle->x_sin);
-	if (data->center_of_mass->x)
-		ft_rotate_ship(data);
+	if (data->board->x < BOARD_WIDTH)
+		data->board->x += i;
+
+//	data->angle->x_cos = cos(data->center_of_mass->x);
+//	data->angle->x_sin = sin(data->center_of_mass->x);
+//	data->angle->y_cos = cos(data->center_of_mass->x);
+//	data->angle->y_sin = sin(data->center_of_mass->x);
+//	if (data->center_of_mass->x)
+//		ft_rotate_ship(data);
 }
 
 void    move_back(t_data *data, float i)
@@ -55,7 +59,7 @@ void	ft_move(t_data *data)
 {
 	if (data->center_of_mass->y || data->center_of_mass->x) {
 		if (data->center_of_mass->y) {
-			ft_clear_img(data);
+//			ft_clear_img(data);
 //		ft_printf("y:%d\n", data->center_of_mass->y);
 			if (data->center_of_mass->y > 0.0)
 				move_back(data, data->center_of_mass->y);
@@ -64,8 +68,8 @@ void	ft_move(t_data *data)
 		}
 		if (data->center_of_mass->x) {
 //		printf("x:%f\n", data->center_of_mass->x);
-			ft_clear_img(data);
-			if (data->center_of_mass->x > 0)
+//			ft_clear_img(data);
+			if (data->center_of_mass->x > 0.0)
 				move_right(data, data->center_of_mass->x);
 			else
 				move_left(data, data->center_of_mass->x);

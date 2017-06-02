@@ -6,7 +6,7 @@ void	ft_create_arr_of_fire(t_data *data)
 	int i;
 	data->bull	= (t_fire **)malloc(sizeof(t_fire *) * 101);
 	i = -1;
-	while (data->bull[++i])
+	while (++i < 100)
 		data->bull[i] = NULL;
 	data->center_of_mass = (t_cofmass *)malloc((sizeof(t_cofmass *) * 1));
 	data->center_of_mass->x = 0.0;
@@ -18,8 +18,9 @@ void	ft_create_arr_of_fire(t_data *data)
 	data->old_ship->tmp_cord = (t_tmp_cord *)malloc(sizeof(t_tmp_cord) * 1);
 	data->enemy = (t_enemy **)malloc(sizeof(t_enemy *) * 100);
 	i = -1;
-	while (data->enemy[++i])
+	while (++i < 100)
 		data->enemy[i] = NULL;
+	data->background = (t_tri *)malloc(sizeof(t_tri) * 1);
 }
 
 void	ft_clear_bullet_img(t_data *data, t_fire *enemy)

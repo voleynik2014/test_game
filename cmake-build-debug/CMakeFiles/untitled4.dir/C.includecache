@@ -17,8 +17,6 @@ mlx.h
 -
 time.h
 -
-/opt/X11/include/X11/X.h
--
 
 ../libft/ft_printf.h
 stdarg.h
@@ -56,133 +54,131 @@ printflib.h
 ft_printf.h
 ../libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/includes/fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/includes/fdf.h
 ../libft/libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 mlx.h
 -
 time.h
 -
-/opt/X11/include/X11/X.h
--
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_atoi.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_atoi.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_bzero.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_bzero.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_color.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_color.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_get_next_line.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_get_next_line.c
 get_next_line.h
-/Users/Vlastyk/CLionProjects/FDF/libft/get_next_line.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/get_next_line.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_isalnum.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isalnum.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_isalpha.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isalpha.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_isascii.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isascii.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_isdigit.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isdigit.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_isprint.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isprint.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_itoa.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_itoa.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_itoa_base.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_itoa_base.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_itoa_ll.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_itoa_ll.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstadd.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstadd.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstdel.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstdel.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstdelone.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstdelone.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstiter.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstiter.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstmap.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstmap.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstnew.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstnew.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_memalloc.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memalloc.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_memccpy.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memccpy.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_memchr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memchr.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_memcmp.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memcmp.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_memcpy.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memcpy.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_memdel.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memdel.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_memmove.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memmove.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_memset.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memset.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_padding.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_padding.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_padding_str.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_padding_str.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 stdarg.h
 -
 wchar.h
@@ -190,211 +186,211 @@ wchar.h
 stdlib.h
 -
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 printflib.h
-/Users/Vlastyk/CLionProjects/FDF/libft/printflib.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/printflib.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_put_uintmax.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_put_uintmax.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putchar.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putchar.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putchar_fd.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putchar_fd.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putendl.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putendl.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putendl_fd.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putendl_fd.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putnbr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putnbr.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putnbr_fd.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putnbr_fd.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putnstr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putnstr.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putstr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putstr.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putstr_fd.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putstr_fd.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putwchar.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putwchar.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_putwchar_fd.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putwchar_fd.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_specifiers.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_specifiers.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_specifiers2.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_specifiers2.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_squere.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_squere.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strcat.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strcat.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strchr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strchr.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strclr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strclr.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strcmp.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strcmp.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strcpy.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strcpy.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strdel.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strdel.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strdup.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strdup.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 stdlib.h
 -
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strequ.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strequ.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_striter.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_striter.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_striteri.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_striteri.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strjoin.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strjoin.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strlcat.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strlcat.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strlen.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strlen.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strmap.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strmap.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strmapi.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strmapi.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strncat.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strncat.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strncmp.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strncmp.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strncpy.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strncpy.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strndup.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strndup.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strnequ.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strnequ.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strnew.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strnew.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strnstr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strnstr.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strrchr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strrchr.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strsplit.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strsplit.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strstr.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strstr.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strsub.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strsub.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_strtrim.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strtrim.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_tolower.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_tolower.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_toupper.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_toupper.c
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_type_di.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_type_di.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_type_ox.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_type_ox.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_type_s.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_type_s.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_type_wchar.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_type_wchar.c
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/get_next_line.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/get_next_line.h
 libft.h
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 fcntl.h
 -
 
-/Users/Vlastyk/CLionProjects/FDF/libft/libft.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h
 string.h
 -
 stdlib.h
@@ -402,73 +398,67 @@ stdlib.h
 unistd.h
 -
 get_next_line.h
-/Users/Vlastyk/CLionProjects/FDF/libft/get_next_line.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/get_next_line.h
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 printflib.h
-/Users/Vlastyk/CLionProjects/FDF/libft/printflib.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/printflib.h
 
-/Users/Vlastyk/CLionProjects/FDF/libft/printflib.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/printflib.h
 ft_printf.h
-/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h
 
-/Users/Vlastyk/CLionProjects/FDF/src/do_fire.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/background.c
 fdf.h
-/Users/Vlastyk/CLionProjects/FDF/src/fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/fdf.h
 
-/Users/Vlastyk/CLionProjects/FDF/src/enemy.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/do_fire.c
 fdf.h
-/Users/Vlastyk/CLionProjects/FDF/src/fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/fdf.h
+
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/enemy.c
+fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/fdf.h
 enemy.h
-/Users/Vlastyk/CLionProjects/FDF/src/enemy.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/enemy.h
 
-/Users/Vlastyk/CLionProjects/FDF/src/ft_delete_bullet.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/ft_delete_bullet.c
 fdf.h
-/Users/Vlastyk/CLionProjects/FDF/src/fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/fdf.h
 
-/Users/Vlastyk/CLionProjects/FDF/src/ft_move.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/ft_move.c
 fdf.h
-/Users/Vlastyk/CLionProjects/FDF/src/fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/fdf.h
 math.h
-/Users/Vlastyk/CLionProjects/FDF/src/math.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/math.h
 
-/Users/Vlastyk/CLionProjects/FDF/src/ft_rotate_ship.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/ft_rotate_ship.c
 fdf.h
-/Users/Vlastyk/CLionProjects/FDF/src/fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/fdf.h
 math.h
-/Users/Vlastyk/CLionProjects/FDF/src/math.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/math.h
 enemy.h
-/Users/Vlastyk/CLionProjects/FDF/src/enemy.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/enemy.h
 
-/Users/Vlastyk/CLionProjects/FDF/src/ft_start_location.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/ft_start_location.c
 
-/Users/Vlastyk/CLionProjects/FDF/src/handle_fire.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/handle_fire.c
 fdf.h
-/Users/Vlastyk/CLionProjects/FDF/src/fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/fdf.h
 enemy.h
-/Users/Vlastyk/CLionProjects/FDF/src/enemy.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/enemy.h
 
-/Users/Vlastyk/CLionProjects/FDF/src/main.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/main.c
 stdio.h
 -
 ../includes/fdf.h
-/Users/Vlastyk/CLionProjects/FDF/includes/fdf.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/includes/fdf.h
 enemy.h
-/Users/Vlastyk/CLionProjects/FDF/src/enemy.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/enemy.h
 math.h
-/Users/Vlastyk/CLionProjects/FDF/src/math.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/math.h
 
-/Users/Vlastyk/CLionProjects/FDF/src/player.c
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/player.c
 fdf.h
-/Users/Vlastyk/CLionProjects/FDF/src/fdf.h
-
-/opt/X11/include/X11/X.h
-X11/Xmd.h
--
-
-/opt/X11/include/X11/Xmd.h
-sys/isa_defs.h
--
-
-/opt/X11/include/mlx.h
+/nfs/2016/v/voliynik/ClionProjects/test_game/src/fdf.h
 

@@ -8,364 +8,367 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug"/>
+				<Option working_dir="/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug"/>
+				<Option working_dir="/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled4">
-				<Option output="/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/untitled4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug"/>
+				<Option output="/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/untitled4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/Vlastyk/CLionProjects/FDF/includes"/>
+					<Add directory="/nfs/2016/v/voliynik/ClionProjects/test_game/includes"/>
 					<Add directory="/opt/X11/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled4"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled4/fast">
-				<Option output="/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/untitled4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug"/>
+				<Option output="/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/untitled4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/Vlastyk/CLionProjects/FDF/includes"/>
+					<Add directory="/nfs/2016/v/voliynik/ClionProjects/test_game/includes"/>
 					<Add directory="/opt/X11/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled4/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Vlastyk/CLionProjects/FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/v/voliynik/ClionProjects/test_game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/includes/enemy.h">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/includes/enemy.h">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/Makefile">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/Makefile">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/author">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/author">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_atoi.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_atoi.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_bzero.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_bzero.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_color.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_color.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_get_next_line.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_get_next_line.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_isalnum.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isalnum.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_isalpha.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isalpha.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_isascii.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isascii.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_isdigit.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isdigit.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_isprint.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_isprint.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_itoa.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_itoa.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_itoa_base.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_itoa_base.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_itoa_ll.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_itoa_ll.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstadd.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstadd.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstdel.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstdel.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstdelone.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstdelone.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstiter.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstiter.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstmap.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstmap.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_lstnew.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_lstnew.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_memalloc.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memalloc.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_memccpy.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memccpy.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_memchr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memchr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_memcmp.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memcmp.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_memcpy.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memcpy.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_memdel.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memdel.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_memmove.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memmove.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_memset.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_memset.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_padding.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_padding.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_padding_str.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_padding_str.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_printf.h">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_printf.h">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_put_uintmax.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_put_uintmax.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putchar.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putchar.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putchar_fd.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putchar_fd.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putendl.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putendl.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putendl_fd.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putendl_fd.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putnbr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putnbr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putnbr_fd.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putnbr_fd.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putnstr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putnstr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putstr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putstr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putstr_fd.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putstr_fd.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putwchar.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putwchar.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_putwchar_fd.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_putwchar_fd.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_specifiers.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_specifiers.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_specifiers2.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_specifiers2.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_squere.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_squere.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strcat.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strcat.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strchr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strchr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strclr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strclr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strcmp.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strcmp.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strcpy.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strcpy.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strdel.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strdel.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strdup.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strdup.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strequ.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strequ.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_striter.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_striter.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_striteri.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_striteri.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strjoin.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strjoin.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strlcat.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strlcat.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strlen.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strlen.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strmap.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strmap.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strmapi.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strmapi.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strncat.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strncat.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strncmp.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strncmp.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strncpy.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strncpy.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strndup.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strndup.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strnequ.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strnequ.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strnew.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strnew.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strnstr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strnstr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strrchr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strrchr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strsplit.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strsplit.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strstr.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strstr.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strsub.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strsub.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_strtrim.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_strtrim.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_tolower.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_tolower.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_toupper.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_toupper.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_type_di.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_type_di.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_type_ox.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_type_ox.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_type_s.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_type_s.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/ft_type_wchar.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/ft_type_wchar.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/get_next_line.h">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/get_next_line.h">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/libft.h">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/libft.h">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/libft/printflib.h">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/libft/printflib.h">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/do_fire.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/background.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/enemy.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/do_fire.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/ft_delete_bullet.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/enemy.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/ft_move.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/ft_delete_bullet.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/ft_rotate_ship.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/ft_move.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/ft_start_location.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/ft_rotate_ship.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/handle_fire.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/ft_start_location.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/main.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/handle_fire.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/src/player.c">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/main.c">
 			<Option target="untitled4"/>
 		</Unit>
-		<Unit filename="/Users/Vlastyk/CLionProjects/FDF/CMakeLists.txt">
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/src/player.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="/nfs/2016/v/voliynik/ClionProjects/test_game/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -41,7 +41,7 @@ void	ft_clear_img(t_data *data)
 void	ft_print_img(t_data *data)
 {
 	if (data->board->x < BOARD_WIDTH && data->board->x > 0 && data->board->y < BOARD_HEIGHT && data->board->y > 0) {
-		ft_clear_img(data);
+//		ft_clear_img(data);
 		mlx_put_image_to_window(data->mlx, data->win, data->figure->img, (int)data->board->x, (int)data->board->y);
 	}
 }
@@ -99,7 +99,7 @@ int     ft_triangle(t_data *data)
 	int z;
 	char *tmp;
 
-	if (1)
+	if (0)
 	{
 		data->center_of_mass->x = 0.0;
 		data->center_of_mass->y = 0.0;
@@ -113,7 +113,7 @@ int     ft_triangle(t_data *data)
 		return 0;
 	}
     data->figure = (t_tri *)malloc(sizeof(t_tri) * 1);
-	data->figure->img = mlx_xpm_file_to_image(data->mlx, "texture/natys.xpm", &data->figure->x, &data->figure->y);
+	data->figure->img = mlx_xpm_file_to_image(data->mlx, "texture/bakuden_alone.xpm", &data->figure->x, &data->figure->y);
 	ft_put_player_on_the_board(data);
     return 1;
 }
